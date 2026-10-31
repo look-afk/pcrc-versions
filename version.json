@@ -1,8 +1,8 @@
 {
-  "version": 7,
-  "url": "https://github.com/look-afk/pcrc-versions/releases/download/v7/RemoteControl.exe",
-  "sha256": "7355a9313fbdaa781607640c43140066febeed3296ebdcb4034afdea27f44a39",
-  "zip_url": "https://github.com/look-afk/pcrc-versions/releases/download/v7/RemoteControl-release.zip",
-  "zip_sha256": "8215336eedcc7d0befa402716f9c8d87dad1b56ca1eb55c5012c329279fc9f32",
-  "sig": "7CYEHb54SyHQkpRequ/b8YaKZLwwahgCMalad2jBHxQo44JARFP78XSfNMlJ49gLP/iGXvRdrTd4ZGzRzDZpCg=="
+  "version": 8,
+  "url": "https://github.com/look-afk/pcrc-versions/releases/download/v8/RemoteControl.exe",
+  "sha256": "553aced5a6b3cb7da7e46abfbd29d76e989ff671bf945e8d8e9f19152dc0588c",
+  "zip_url": "https://github.com/look-afk/pcrc-versions/releases/download/v8/RemoteControl-release.zip",
+  "zip_sha256": "43cca4886a77115e14d3bbe3c5e1ea4089de593e43aa1fb1d09d661e0f2116c3",
+  "sig": "SC3fBKBV8bjNW+l+c6rJwF42PYbED+oEVqxKPwIi6F/7kw+1mfS/gnPYJDicGRkFa0BHl+W0+Ay8lK8g1NCGCA=="
 }
